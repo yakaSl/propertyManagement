@@ -95,10 +95,8 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="menu-item"><a href="#demos">{{__('Home')}}</a></li>
-                                <li class="menu-item"><a href="#pricing">{{__('Pricing')}}</a></li>
-                                <li class="menu-item"><a href="#features">{{__('Features')}}</a></li>
-                                <li class="menu-item"><a href="#faq">{{__('FAQs')}}</a></li>
+                                
+                                
 
                                 <li class="menu-item">
                                     <a class="btn btn-primary me-2" href="{{route('login')}}">{{__('Login')}} </a>
@@ -140,7 +138,7 @@
 
     </div>
     <div class="landing_dash">
-        <img class="" src="{{ asset('assets/images/landing/1.png') }}" alt="">
+        <img class="" src="{{ asset('assets/images/landing/9.jpg') }}" alt="">
     </div>
 </section>
 <!-- intro end-->

@@ -95,10 +95,8 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li class="menu-item"><a href="#demos"><?php echo e(__('Home')); ?></a></li>
-                                <li class="menu-item"><a href="#pricing"><?php echo e(__('Pricing')); ?></a></li>
-                                <li class="menu-item"><a href="#features"><?php echo e(__('Features')); ?></a></li>
-                                <li class="menu-item"><a href="#faq"><?php echo e(__('FAQs')); ?></a></li>
+                                
+                                
 
                                 <li class="menu-item">
                                     <a class="btn btn-primary me-2" href="<?php echo e(route('login')); ?>"><?php echo e(__('Login')); ?> </a>
@@ -140,7 +138,7 @@
 
     </div>
     <div class="landing_dash">
-        <img class="" src="<?php echo e(asset('assets/images/landing/1.png')); ?>" alt="">
+        <img class="" src="<?php echo e(asset('assets/images/landing/9.jpg')); ?>" alt="">
     </div>
 </section>
 <!-- intro end-->
